@@ -1,0 +1,45 @@
+.main{
+    border: 10px solid blueviolet;
+    background-color: yellow;
+    margin: 20px;
+    position: relative;
+    width: 1218px;
+    height: 608px;
+}
+body{
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+    border: 5px solid red;
+}
+.b1{ 
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.b2{
+    position: absolute;
+    left: 605px;
+    top: 0px;
+}
+.b3{
+    position: absolute;
+    left: 605px;
+    top: 205px;
+}
+.b4{
+    position: absolute;
+    left: 605px;
+    top: 400px;
+}
+.b5{
+    position: absolute;
+    left: 810px;
+    top: 100px;
+    width: 400px;
+    height: 400px;
+}
